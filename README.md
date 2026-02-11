@@ -74,7 +74,7 @@ portfolio/
 ├── index.tsx            # Application entry point
 ├── index.html           # HTML template
 ├── vite.config.ts       # Vite configuration
-└── resume and images/   # Assets folder
+└── public/   # Assets folder
 ```
 
 ## 🎨 Sections

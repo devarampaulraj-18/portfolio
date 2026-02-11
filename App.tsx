@@ -58,7 +58,7 @@ const App: React.FC = () => {
               View My Work <ChevronRight size={18} />
             </a>
             <a
-              href="/resume and images/DEVARAM_P_71812305019.pdf"
+              href="/public/DEVARAM_P_71812305019.pdf"
               download="Devaram_Paulraj_Resume.pdf"
               className="w-full sm:w-auto px-10 py-4 rounded-full border border-[#E5E1DA] font-bold flex items-center justify-center gap-2 hover:bg-[#E5E1DA] transition-all"
             >
@@ -74,7 +74,7 @@ const App: React.FC = () => {
           <div className="relative group">
             <div className="aspect-square overflow-hidden rounded-[rem] shadow-xl border border-[#E5E1DA]/50 bg-white">
               <img
-                src="resume and images/devaram.png"
+                src="public/devaram.png"
                 alt="Devaram Paulraj"
                 className="w-full h-full object-contain group-hover:scale-105 transition-all duration-1000"
               />
