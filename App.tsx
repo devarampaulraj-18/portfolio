@@ -74,7 +74,7 @@ const App: React.FC = () => {
           <div className="relative group">
             <div className="aspect-square overflow-hidden rounded-[rem] shadow-xl border border-[#E5E1DA]/50 bg-white">
               <img
-                src="public/devaram.png"
+                src="/devaram.png"
                 alt="Devaram Paulraj"
                 className="w-full h-full object-contain group-hover:scale-105 transition-all duration-1000"
               />
