@@ -72,9 +72,9 @@ const App: React.FC = () => {
       <section id="about" className="py-32 px-6 bg-[#FAF7F2]">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-20 items-center">
           <div className="relative group">
-            <div className="aspect-square overflow-hidden rounded-[3rem] shadow-xl border border-[#E5E1DA]/50 bg-white">
+            <div className="aspect-square overflow-hidden rounded-[rem] shadow-xl border border-[#E5E1DA]/50 bg-white">
               <img
-                src="/resume and images/devaram.png"
+                src="resume and images/devaram.png"
                 alt="Devaram Paulraj"
                 className="w-full h-full object-contain group-hover:scale-105 transition-all duration-1000"
               />

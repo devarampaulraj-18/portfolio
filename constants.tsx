@@ -65,7 +65,7 @@ export const EXPERIENCES: Experience[] = [
   {
     role: 'Web Development Intern',
     company: 'eThoughtz Technology',
-    period: 'Summer 2024',
+    period: 'Summer 2025',
     description: [
       'Worked on a real-time company project for a college website',
       'Developed responsive UI components with clean code practices',
@@ -76,7 +76,7 @@ export const EXPERIENCES: Experience[] = [
   {
     role: 'Google Student Ambassador',
     company: 'Google Developer Groups',
-    period: '2023 - Present',
+    period: '2025 - Present',
     description: [
       'Selected as a Google Student Ambassador at SREC',
       'Led AI-focused initiatives and community build-outs on campus',
