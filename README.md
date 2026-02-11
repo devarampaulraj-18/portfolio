@@ -92,10 +92,3 @@ portfolio/
 - **LinkedIn**: [linkedin.com/in/devaram-paulraj](https://www.linkedin.com/in/devaram-paulraj)
 - **GitHub**: [github.com/devarampaulraj-18](https://github.com/devarampaulraj-18)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-**Built with ❤️ by Devaram Paulraj**
