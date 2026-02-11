@@ -58,7 +58,7 @@ const App: React.FC = () => {
               View My Work <ChevronRight size={18} />
             </a>
             <a
-              href="//DEVARAM_P_71812305019.pdf"
+              href="/devaram_resume.pdf"
               download="Devaram_Paulraj_Resume.pdf"
               className="w-full sm:w-auto px-10 py-4 rounded-full border border-[#E5E1DA] font-bold flex items-center justify-center gap-2 hover:bg-[#E5E1DA] transition-all"
             >
